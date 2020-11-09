@@ -1,1 +1,1 @@
-# UPProjects
+All the projects I have managed to get a hold of from my time studying at The University Of Pretoria. They are mostly based on different data structures and the projects I completed in my second year before leaving UP. 
